@@ -9,7 +9,7 @@ require Math::BigInt;
 require Math::BigRat;
 require Math::BigFloat;
 
-our $VERSION = 0.01;
+our $VERSION = '0.02';
 
 use Math::SymbolicX::ParserExtensionFactory (
     bigint => sub {
